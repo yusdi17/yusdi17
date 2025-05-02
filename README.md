@@ -80,8 +80,3 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@yusdi17&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
