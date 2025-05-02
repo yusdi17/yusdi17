@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">👋 Hi, I'm Yusdi Fathudin – an Informatics Engineering student interested in Web Development and AI.<br>💻 I’m passionate about Web Development and AI.<br>🎓 I'm an undergraduate student majoring in Informatics Engineering at Amikom University Puwokerto (2022–2026).</p>
+<p align="left">👋 Hi, I'm Yusdi Fathudin – an Informatics Engineering student interested in Web Development and AI.<br>🎓 I'm an undergraduate student majoring in Informatics Engineering at Amikom University Puwokerto (2022–2026).</p>
 
 ###
 
