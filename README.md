@@ -65,8 +65,8 @@ Here are some ideas to get you started:
   <img width="5" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="22" alt="codeigniter logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="22" alt="react logo"  />
-  <img width="5" />
+<!--   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="22" alt="react logo"  />
+  <img width="5" /> -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="22" alt="python logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="22" alt="git logo"  />
