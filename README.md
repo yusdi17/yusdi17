@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 
 ###
 
-![yusdi17 GitHub stats](https://github-readme-stats.vercel.app/api?username=yusdi17&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusdi17&layout=compact)
 
