@@ -89,8 +89,7 @@ Here are some ideas to get you started:
 
 ![Yusdi GitHub stats](https://github-readme-stats.vercel.app/api?username=yusdi17&show_icons=true&theme=radical)
 
-![Yusdi GitHub stats](https://ghstats.dev/api/card?yusdi17=octocat)
-https://ghstats.dev/api/card?username=octocat
+![GitHub Stats Card](https://ghstats.dev/api/card?username=octocat)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=yusdi17&theme=dark&hide_border=false)<br/>
 ###
