@@ -85,11 +85,12 @@ Here are some ideas to get you started:
 ###
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusdi17&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusdi17&layout=compact)-->
+![Top Languages](https://ghstats.dev/api/langs?username=yusdi17)
 
-![Yusdi GitHub stats](https://github-readme-stats.vercel.app/api?username=yusdi17&show_icons=true&theme=radical)
+<!--![Yusdi GitHub stats](https://github-readme-stats.vercel.app/api?username=yusdi17&show_icons=true&theme=radical)-->
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=octocat)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=yusdi17)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=yusdi17&theme=dark&hide_border=false)<br/>
 ###
