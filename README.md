@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusdi17&layout=compact)-->
-![Top Languages](https://ghstats.dev/api/langs?username=yusdi17)
+![Top Languages](https://ghstats.dev/api/langs?username=yusdi17&layout=donut_vertical)
 
 <!--![Yusdi GitHub stats](https://github-readme-stats.vercel.app/api?username=yusdi17&show_icons=true&theme=radical)-->
 
